@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "red_sword",
+  "version": "1.0.0",
+  "name": "Red Sword",
+  "description": "Adds a powerful red sword with redstone particle effects!",
+  "authors": ["Geraud"],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/red_sword/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.redsword.RedSwordMod"],
+    "client": ["com.redsword.RedSwordModClient"]
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

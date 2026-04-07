@@ -19,7 +19,7 @@ loom {
     splitEnvironmentSourceSets()
 
     mods {
-        "red-sword" {
+        "red_sword" {
             sourceSet sourceSets.main
             sourceSet sourceSets.client
         }

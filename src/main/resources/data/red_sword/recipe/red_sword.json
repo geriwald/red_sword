@@ -6,15 +6,10 @@
     "S"
   ],
   "key": {
-    "N": {
-      "item": "minecraft:netherite_block"
-    },
-    "S": {
-      "item": "minecraft:stick"
-    }
+    "N": "minecraft:netherite_block",
+    "S": "minecraft:stick"
   },
   "result": {
-    "id": "red_sword:red_sword",
-    "count": 1
+    "id": "red_sword:red_sword"
   }
 }

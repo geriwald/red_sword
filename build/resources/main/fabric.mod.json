@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "red_sword",
-  "version": "1.0.0",
+  "version": "1.0.11",
   "name": "Red Sword",
   "description": "Adds a powerful red sword with redstone particle effects!",
   "authors": ["Geraud"],
